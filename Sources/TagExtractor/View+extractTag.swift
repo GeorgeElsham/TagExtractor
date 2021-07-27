@@ -21,7 +21,7 @@ public extension View {
     ///                 let tag = try getTag()
     ///                 print("tag: \(tag)")
     ///             } catch {
-    ///                 print("Error extracting tag: \(error)")
+    ///                 print("Tag error: \(error)")
     ///             }
     ///
     ///             // Method #2
